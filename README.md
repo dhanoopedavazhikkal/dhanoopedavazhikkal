@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Linux Privilege Escalation</b>
-  - [Practicing Linux privelege Escalation](https://github.com/dhanoopedavazhikkal/.)
+  - [Practicing Linux privelege Escalation](https://github.com/dhanoopedavazhikkal/Linux-Privilege-Escalation)
 - <b>Windows Privilege Escalation</b>
   - [Practicing Windows privelege Escalation](https://github.com/dhanoopedavazhikkal/.)
 - <b>Creating Home Lab</b>
