@@ -7,7 +7,7 @@
 - <b>Windows Privilege Escalation</b>
   - [Practicing Windows privelege Escalation](https://github.com/dhanoopedavazhikkal/Windows-Privilege-Escalation)
 - <b>Creating Home Lab</b>
-  - [Create a home lab for Penetration testing](https://github.com/dhanoopedavazhikkal/.)
+  - [Create a home lab for Penetration testing](https://github.com/dhanoopedavazhikkal/Creating-Home-Lab)
 
 
 <h2>👨‍💻 Certifications:</h2>
