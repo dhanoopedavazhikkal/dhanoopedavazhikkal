@@ -5,7 +5,7 @@
 - <b>Linux Privilege Escalation</b>
   - [Practicing Linux privelege Escalation](https://github.com/dhanoopedavazhikkal/Linux-Privilege-Escalation)
 - <b>Windows Privilege Escalation</b>
-  - [Practicing Windows privelege Escalation](https://github.com/dhanoopedavazhikkal/.)
+  - [Practicing Windows privelege Escalation](https://github.com/dhanoopedavazhikkal/Windows-Privilege-Escalation)
 - <b>Creating Home Lab</b>
   - [Create a home lab for Penetration testing](https://github.com/dhanoopedavazhikkal/.)
 
